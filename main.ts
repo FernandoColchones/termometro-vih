@@ -16,4 +16,4 @@ input.onButtonPressed(Button.B, function () {
     basic.showNumber(1.8 * (input.temperature() + 32))
     radio.sendNumber(1.8 * (input.temperature() + 32))
 })
-radio.setGroup(121)
+radio.setGroup(677)
